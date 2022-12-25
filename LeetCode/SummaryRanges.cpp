@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+
 vector<string> summaryRanges(vector<int>& nums){
     ios::sync_with_stdio(0);
     cin.tie(0);
